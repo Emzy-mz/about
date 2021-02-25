@@ -1,1 +1,1 @@
-about
+just an about page
